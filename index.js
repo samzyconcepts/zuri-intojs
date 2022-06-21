@@ -3,4 +3,5 @@ const name = document.querySelector('.name'),
     country = document.querySelector('.country');
 
 name.innerHTML = 'Oderinwale Samson';
-height.innerHTML = 
+height.innerHTML = 5.7;
+country.innerHTML = 'Nigeria'
